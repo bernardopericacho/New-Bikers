@@ -1,0 +1,143 @@
+body {
+	margin: 0 0;
+	font-family: sans-serif,Verdana,Courier;
+	text-align: justify;
+}
+
+
+.titprincipal {
+	top: 100px;
+
+}
+
+h1 {
+	font-family: sans-serif,Verdana,Courier;
+	font-weight: bold;
+	font-size: 12pt;
+}
+
+h2 {
+	font-family: sans-serif,Verdana,Courier;
+	font-weight: bold;
+	font-size: 15pt;
+
+}
+
+.completo {
+	width: 100%;
+	height: 100%;
+}
+
+
+.cabecera {
+	width: 100%;
+	height: 180px;
+}
+
+.logo {
+	height: 165px;
+	width: 18%;
+	float: left;
+}
+
+.titulo {
+	height: 165px;
+	width: 82%;
+	float: left;
+}
+
+
+.central {
+	width: 100%;
+	height: 80%;
+}
+
+
+.pie {
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	clear: both;
+	position: relative;
+	margin-top: 30px;
+}
+
+.pieinicio {
+
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	
+}
+
+.menu{
+	width: 18%;
+	padding-left: 10px;
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 150px;
+	margin-left:5px;
+}
+
+
+.contenido{
+
+	float:left;
+	width:75%;
+	padding-left: 40px;
+	margin-right:5px;
+}
+
+
+img { 
+	display: block; 
+	margin: auto;
+}
+
+
+.produc {
+	width: 15%;
+	clear: left;
+
+}
+
+.texto {
+	width: 85%;
+}
+
+table.login {
+	width:90%;
+	padding-top: 100px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+table.reg {
+	width:90%;
+	padding-top: 25px;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+table.piepag{
+	width:90%;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+table.opciones{
+
+	width:100%;
+	height: 425px;
+	border: 3px solid;
+}
+
+tr.opciones{
+	border: 1px solid;
+}
+
+td.opciones{
+	border: 1px solid;
+}

@@ -1,0 +1,52 @@
+body {
+
+	background-image: url('../images/ver04.jpg');
+	background-repeat:repeat;
+}
+
+.pie {
+	background-image: url('../images/ver01.jpg');
+	background-repeat: repeat;
+}
+
+.pieinicio {
+	background-image: url('../images/ver01.jpg');
+	background-repeat: repeat;
+}
+
+.cabecera {
+
+	background-image: url('../images/ver01.jpg');
+	background-repeat: repeat;
+}
+
+.menu{
+	border: 3px solid black;
+	background-image: url('../images/ver01.jpg');
+	background-repeat: repeat;
+}
+
+.producto {
+	
+	border: 1px solid black;
+	padding-left:5px;
+	padding-right:5px;
+
+}
+
+a:visited {
+	color: black;
+}
+
+a:active {
+	color: black;
+}
+
+a:link {
+	color: black;
+}
+
+a:hover {
+	color: blue;
+}
+
